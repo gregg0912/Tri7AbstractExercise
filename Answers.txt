@@ -1,0 +1,20 @@
+Question 1:
+    My answer is item 2 because it maintains the symmetry of the upper and lower halves.
+
+Question 2:
+    My answer is item 2 because it maintains the increasing shape size from left to right
+
+Question 3:
+    My answer is item 3. The last image for each row is a combination of the two images before it.
+    Item 3 is the only one that can be combined with another square to form the last image.
+
+Question 4:
+    My answer is item 4. Based on the progression on each row, the square and the circle move left/right
+    while the line moves up/down. When the objects intersect, they will swap colors. Based on those
+    observations, the expected image will have the line at the top, the circle is white and is on the
+    right side, and the square is black and is on the left side.
+
+Question 5:
+    My answer is item 3. Based on the progression of images for each row, the square moves left to right,
+    and the circle moves from bottom to top. Based on that observation, the circle and square should
+    end up on the same position.
